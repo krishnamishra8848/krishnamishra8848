@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **krishnamishra8848@gmail.com**
 
+<h3 align="left">About Me:</h3> <p align="left">I am Krishna Mishra, a passionate data scientist with a deep interest in machine learning, deep learning, and natural language processing. My journey has been driven by a strong desire to uncover insights from data and build innovative solutions that make an impact. With expertise in Python, TensorFlow, and a range of data science tools, I continually explore new methods and techniques to solve real-world problems. I am enthusiastic about applying my skills to projects that push the boundaries of technology and help businesses grow. Feel free to explore my repositories below to see my work and collaborations!</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
