@@ -40,12 +40,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Nepse-Stock-Data-Analysis)](https://github.com/krishnamishra8848/Nepse-Stock-Data-Analysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=WhatsApp-Chat-Analysis)](https://github.com/krishnamishra8848/WhatsApp-Chat-Analysis)
 
-<style>
-  .card:hover {
-    transform: scale(1.05);
-    cursor: pointer;
-  }
-</style>
 
 <h2 align="left">Test Our End-to-End Live AI Models</h2>
 
