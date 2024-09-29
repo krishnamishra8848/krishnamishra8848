@@ -26,8 +26,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamishra8848&" alt="krishnamishra8848" /></p>
 
-## 🛠️ My Repositories
+## 🛠️ My Top Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Laptop_Price_Prediction_Model-machine-learning)](https://github.com/krishnamishra8848/Laptop_Price_Prediction_Model-machine-learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=IMDB-Movie-Sentiment-Analysis-machine-learning)](https://github.com/krishnamishra8848/IMDB-Movie-Sentiment-Analysis-machine-learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Email-Spam-Classifier-machine-learning)](https://github.com/krishnamishra8848/Email-Spam-Classifier-machine-learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=IPL-Win-Predicion-Model-machine-learning)](https://github.com/krishnamishra8848/IPL-Win-Predicion-Model-machine-learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Dog-vs-Cat-Classification-CNN-Model)](https://github.com/krishnamishra8848/Dog-vs-Cat-Classification-CNN-Model)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Nepali-Food-Classification-CNN-Model)](https://github.com/krishnamishra8848/Nepali-Food-Classification-CNN-Model)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Bank-Churn-Prediction-ANN-Model)](https://github.com/krishnamishra8848/Bank-Churn-Prediction-ANN-Model)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Recycled-vs-Organic-Waste-Classification-CNN)](https://github.com/krishnamishra8848/Recycled-vs-Organic-Waste-Classification-CNN)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Nepal-Stock-Prediction-Prophet-timeseries)](https://github.com/krishnamishra8848/Nepal-Stock-Prediction-Prophet-timeseries)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Nepse-Stock-Data-Analysis)](https://github.com/krishnamishra8848/Nepse-Stock-Data-Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=WhatsApp-Chat-Analysis)](https://github.com/krishnamishra8848/WhatsApp-Chat-Analysis)
 
 
