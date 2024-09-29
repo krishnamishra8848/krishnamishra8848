@@ -40,14 +40,22 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Nepse-Stock-Data-Analysis)](https://github.com/krishnamishra8848/Nepse-Stock-Data-Analysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=WhatsApp-Chat-Analysis)](https://github.com/krishnamishra8848/WhatsApp-Chat-Analysis)
 
+<style>
+  .card:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+  }
+</style>
+
 <h2 align="left">Test Our End-to-End Live AI Models</h2>
 
-<a href="https://laptop-price-prediction-model-nepal.onrender.com" target="_blank">
-  <div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px; width: 300px; margin-bottom: 10px;">
+<a href="https://laptop-price-prediction-model-nepal.onrender.com" target="_blank" style="text-decoration: none;">
+  <div class="card" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 10px; width: 300px; margin-bottom: 10px;">
     <h4 style="margin: 0; padding: 0;">Laptop Price Prediction Model (Nepal)</h4>
     <p style="margin: 0; padding: 0;">Click to test the live model</p>
   </div>
 </a>
+
 
 
 
