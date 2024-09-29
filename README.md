@@ -25,3 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnamishra8848&show_icons=true&locale=en" alt="krishnamishra8848" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamishra8848&" alt="krishnamishra8848" /></p>
+
+## 🛠️ My Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Laptop_Price_Prediction_Model-machine-learning)](https://github.com/krishnamishra8848/Laptop_Price_Prediction_Model-machine-learning)
+
+
