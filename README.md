@@ -39,6 +39,12 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Nepal-Stock-Prediction-Prophet-timeseries)](https://github.com/krishnamishra8848/Nepal-Stock-Prediction-Prophet-timeseries)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Nepse-Stock-Data-Analysis)](https://github.com/krishnamishra8848/Nepse-Stock-Data-Analysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=WhatsApp-Chat-Analysis)](https://github.com/krishnamishra8848/WhatsApp-Chat-Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=YouTube-Subscription-Analyzer)](https://github.com/krishnamishra8848/YouTube-Subscription-Analyzer)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=LSTM-Movie-Sentiment-Analysis)](https://github.com/krishnamishra8848/LSTM-Movie-Sentiment-Analysis)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Face-Detection-using-Open-CV)](https://github.com/krishnamishra8848/Face-Detection-using-Open-CV)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Topic-Modelling)](https://github.com/krishnamishra8848/Topic-Modelling)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Named-Entity-Recognition)](https://github.com/krishnamishra8848/Named-Entity-Recognition)
+
 
 
 
