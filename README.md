@@ -31,7 +31,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Laptop_Price_Prediction_Model-machine-learning)](https://github.com/krishnamishra8848/Laptop_Price_Prediction_Model-machine-learning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=IMDB-Movie-Sentiment-Analysis-machine-learning)](https://github.com/krishnamishra8848/IMDB-Movie-Sentiment-Analysis-machine-learning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Email-Spam-Classifier-machine-learning)](https://github.com/krishnamishra8848/Email-Spam-Classifier-machine-learning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=IPL-Win-Predicion-Model-machine-learning)](https://github.com/krishnamishra8848/IPL-Win-Predicion-Model-machine-learning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Dog-vs-Cat-Classification-CNN-Model)](https://github.com/krishnamishra8848/Dog-vs-Cat-Classification-CNN-Model)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Nepali-Food-Classification-CNN-Model)](https://github.com/krishnamishra8848/Nepali-Food-Classification-CNN-Model)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Bank-Churn-Prediction-ANN-Model)](https://github.com/krishnamishra8848/Bank-Churn-Prediction-ANN-Model)
