@@ -1,53 +1,56 @@
-<h1 align="center">Hi 👋, I'm Krishna Mishra</h1>
-<h3 align="center">Data Scientist | Passionate About Machine Learning, Deep Learning, and Natural Language Processing</h3>
+# Hi, I'm Krishna Mishra
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnamishra8848&label=Profile%20views&color=0e75b6&style=flat" alt="krishnamishra8848" /> </p>
+Founder of **A.I. Automation Nepal Pvt. Ltd.** (Kathmandu) and builder of [AI CRM Nepal](https://aicrmnepal.com) — a live SaaS CRM with paying clients. Self-taught product builder focused on shipping practical software for the Nepali market: AI automation, full-stack web, and mobile.
 
-- 🔭 I’m currently working on **Data Science**
+## What I build
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- **AI automation** — agent workflows and integrations built with n8n, LangGraph, the OpenAI Agents SDK, MCP servers, and RAG pipelines
+- **Full-stack web** — production SaaS on Next.js and Supabase, deployed on Vercel with Cloudflare R2
+- **Mobile** — 7 published Android apps on Google Play, built with Flutter and Firebase
+- **ML/DL** — my foundation: PyTorch, transformers, model fine-tuning, and forecasting
 
-- 👨‍💻 All of my projects are available at [https://github.com/krishnamishra8848?tab=repositories](https://github.com/krishnamishra8848?tab=repositories)
+## Tech stack
 
-- 📫 How to reach me **krishnamishra8848@gmail.com**
+**AI & automation**
 
-<h3 align="left">About Me:</h3> <p align="left">I am Krishna Mishra, a passionate data scientist with a deep interest in machine learning, deep learning, and natural language processing. My journey has been driven by a strong desire to uncover insights from data and build innovative solutions that make an impact. With expertise in Python, TensorFlow, and a range of data science tools, I continually explore new methods and techniques to solve real-world problems. I am enthusiastic about applying my skills to projects that push the boundaries of technology and help businesses grow. Feel free to explore my repositories below to see my work and collaborations!</p>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?logo=openai&logoColor=white)
+![MCP servers](https://img.shields.io/badge/MCP_servers-24292e)
+![RAG & embeddings](https://img.shields.io/badge/RAG_%26_embeddings-24292e)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Web (full stack)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?logo=cloudflare&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
+![Upstash Redis](https://img.shields.io/badge/Upstash_Redis-00E9A3?logo=upstash&logoColor=black)
+![PostHog](https://img.shields.io/badge/PostHog-F54E00?logo=posthog&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnamishra8848&show_icons=true&locale=en&layout=compact" alt="krishnamishra8848" /></p>
+**Mobile**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnamishra8848&show_icons=true&locale=en" alt="krishnamishra8848" /></p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?logo=googleplay&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamishra8848&" alt="krishnamishra8848" /></p>
+**ML/DL (foundation)**
 
-## 🛠️ My Top Projects
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Laptop_Price_Prediction_Model-machine-learning)](https://github.com/krishnamishra8848/Laptop_Price_Prediction_Model-machine-learning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=IMDB-Movie-Sentiment-Analysis-machine-learning)](https://github.com/krishnamishra8848/IMDB-Movie-Sentiment-Analysis-machine-learning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Email-Spam-Classifier-machine-learning)](https://github.com/krishnamishra8848/Email-Spam-Classifier-machine-learning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Dog-vs-Cat-Classification-CNN-Model)](https://github.com/krishnamishra8848/Dog-vs-Cat-Classification-CNN-Model)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Nepali-Food-Classification-CNN-Model)](https://github.com/krishnamishra8848/Nepali-Food-Classification-CNN-Model)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Bank-Churn-Prediction-ANN-Model)](https://github.com/krishnamishra8848/Bank-Churn-Prediction-ANN-Model)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Recycled-vs-Organic-Waste-Classification-CNN)](https://github.com/krishnamishra8848/Recycled-vs-Organic-Waste-Classification-CNN)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Nepal-Stock-Prediction-Prophet-timeseries)](https://github.com/krishnamishra8848/Nepal-Stock-Prediction-Prophet-timeseries)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Nepse-Stock-Data-Analysis)](https://github.com/krishnamishra8848/Nepse-Stock-Data-Analysis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=WhatsApp-Chat-Analysis)](https://github.com/krishnamishra8848/WhatsApp-Chat-Analysis)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=YouTube-Subscription-Analyzer)](https://github.com/krishnamishra8848/YouTube-Subscription-Analyzer)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=LSTM-Movie-Sentiment-Analysis)](https://github.com/krishnamishra8848/LSTM-Movie-Sentiment-Analysis)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Face-Detection-using-Open-CV)](https://github.com/krishnamishra8848/Face-Detection-using-Open-CV)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Topic-Modelling)](https://github.com/krishnamishra8848/Topic-Modelling)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnamishra8848&repo=Named-Entity-Recognition)](https://github.com/krishnamishra8848/Named-Entity-Recognition)
+## Featured projects
 
+- **[AI CRM Nepal](https://aicrmnepal.com)** — SaaS CRM built for Nepali businesses, with AI automation baked in. Live in production with paying clients. Next.js, Supabase, n8n, and AI agents.
+- **Android apps on Google Play** — 7 published apps under my developer account: EMI Calculator Nepal, Share Calculator Nepal, SIP Calculator Nepal, Age Calculator Nepali, Income Tax Calculator Nepal, Income Expenses Nepal, and SEE GPA Calculator Nepal.
+- **ML & computer vision work** — earlier deep-learning projects, including [Devanagari character recognition](https://github.com/krishnamishra8848/Devanagari_Character_Recognition) and [Nepali vehicle number-plate detection](https://github.com/krishnamishra8848/Nepal-Vehicle-Number-Plate-Detection-Object-Detection-).
 
+## Links
 
-
-
-
-
-
+- Website: [aicrmnepal.com](https://aicrmnepal.com)
+- Email: [krishnamishra8848@gmail.com](mailto:krishnamishra8848@gmail.com)
